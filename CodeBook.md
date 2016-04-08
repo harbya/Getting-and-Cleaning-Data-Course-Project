@@ -72,7 +72,8 @@
 * `fBodyBodyGyroJerkMag-std()` (Column :`66`)
 
 
-## Values of the Activity variable from activity_labels.txt dataset:`  (Column :`67` )
+## Values of the Activity variable from activity_labels.txt dataset:`  
+   (Column :`67` )
 
  Values:
 
@@ -83,5 +84,7 @@
 * `STANDING`
 * `LAYING`
 
-##Subject variable from subject_test.txt and subject_train.txt datasets   (Column :`68` )
-** `subject` (from 1 up to 30)
+##Subject variable from subject_test.txt and subject_train.txt datasets   
+      (Column :`68` )
+
+* `subject` (from 1 up to 30)
