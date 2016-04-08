@@ -48,7 +48,7 @@ final_Data <- cbind(xData, yData, subject_Data)    ## merge all the files into o
 ###############################################################################
 
 averages <- ddply(final_Data,c("subject","activity"), function(x) colMeans(x[, 1:66]))  ## ddply groups the data by subject and activity and generates mean for the rest of the columns.
-write.table(averages, "averages.txt", row.name=FALSE)
+write.table(averages, "averages.txt", row.name=FALSE)                                   ## writes new tidy file 
 
 
 
