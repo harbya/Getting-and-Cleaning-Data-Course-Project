@@ -3,7 +3,7 @@
 
 ##Activity variables from dataset:`
 
-*Fields:`
+*  Fields:
 
 * `1 WALKING`
 * `2 WALKING_UPSTAIRS`
