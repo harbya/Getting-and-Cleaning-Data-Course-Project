@@ -10,7 +10,7 @@
 * `WALKING_DOWNSTAIRS`
 * `SITTING`
 * `STANDING`
-* `LAYIN`
+* `LAYING`
 
 ##Subject variable from subject_test.txt and subject_train.txt datasets 
 ** `subject` (from 1 up to 30)
