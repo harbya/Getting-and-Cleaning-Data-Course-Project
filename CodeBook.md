@@ -5,12 +5,12 @@
 
 *Fields:`
 
-*`1 WALKING`
-*`2 WALKING_UPSTAIRS`
-*`3 WALKING_DOWNSTAIRS`
-*`4 SITTING`
-*`5 STANDING`
-*`6 LAYIN`
+* `1 WALKING`
+* `2 WALKING_UPSTAIRS`
+* `3 WALKING_DOWNSTAIRS`
+* `4 SITTING`
+* `5 STANDING`
+* `6 LAYIN`
 
 ##Subject variable from dataset 
 ** `subject` (from 1 up to 30)
