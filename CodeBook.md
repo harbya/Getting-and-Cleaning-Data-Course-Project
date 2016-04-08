@@ -1,19 +1,6 @@
 #Code Book
 
-
-## Values of the Activity variable from activity_labels.txt dataset:`
-
- Values:
-
-* `WALKING`
-* `WALKING_UPSTAIRS`
-* `WALKING_DOWNSTAIRS`
-* `SITTING`
-* `STANDING`
-* `LAYING`
-
-##Subject variable from subject_test.txt and subject_train.txt datasets 
-** `subject` (from 1 up to 30)
+ The below are the columns names and column number of the final/tidy dataset.
 
 ##Variables extracted from training datasets
 
@@ -83,3 +70,18 @@
 * `fBodyAccMag-std()` (Column :`64`)
 * `fBodyBodyGyroMag-mean()` (Column :`65`)
 * `fBodyBodyGyroJerkMag-std()` (Column :`66`)
+
+
+## Values of the Activity variable from activity_labels.txt dataset:`  (Column :`67` )
+
+ Values:
+
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS`
+* `SITTING`
+* `STANDING`
+* `LAYING`
+
+##Subject variable from subject_test.txt and subject_train.txt datasets   (Column :`68` )
+** `subject` (from 1 up to 30)
