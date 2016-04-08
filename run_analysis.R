@@ -1,8 +1,7 @@
 ###############################################################
 ## Step1 : Merges the training and the test sets to create one data set 
 #################################################################
-library(data.table)  ### loads the data.table library
-library(dplyr)       ### load the dplyr package so I can use select and other features
+library(dplyr)       ### load the dplyr package so I can use ddply features
 
 setwd("D:\\R\\data\\getdata-projectfiles-UCI HAR Dataset\\UCI HAR Dataset") ## sets working directory
 
