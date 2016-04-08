@@ -1,16 +1,16 @@
 #Code Book
 
 
-##Activity variables from activity_labels.txt dataset:`
+## Values of the Activity variable from activity_labels.txt dataset:`
 
-*  Fields:
+ Fields:
 
-* `1 WALKING`
-* `2 WALKING_UPSTAIRS`
-* `3 WALKING_DOWNSTAIRS`
-* `4 SITTING`
-* `5 STANDING`
-* `6 LAYIN`
+* `WALKING`
+* `WALKING_UPSTAIRS`
+* `WALKING_DOWNSTAIRS`
+* `SITTING`
+* `STANDING`
+* `LAYIN`
 
 ##Subject variable from subject_test.txt and subject_train.txt datasets 
 ** `subject` (from 1 up to 30)
