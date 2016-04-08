@@ -1,7 +1,7 @@
 #Code Book
 
 
-##Activity variables from dataset:`
+##Activity variables from activity_labels.txt dataset:`
 
 *  Fields:
 
@@ -12,7 +12,7 @@
 * `5 STANDING`
 * `6 LAYIN`
 
-##Subject variable from dataset 
+##Subject variable from subject_test.txt and subject_train.txt datasets 
 ** `subject` (from 1 up to 30)
 
 ##Variables extracted from training datasets
