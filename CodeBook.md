@@ -3,7 +3,7 @@
 
 ## Values of the Activity variable from activity_labels.txt dataset:`
 
- Fields:
+ Values:
 
 * `WALKING`
 * `WALKING_UPSTAIRS`
