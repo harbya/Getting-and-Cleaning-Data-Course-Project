@@ -23,7 +23,7 @@ subject_Data = rbind(subject_Train, subject_Test)		## Merges the datasets using 
 ###############################################################
 
 features = read.table("features.txt")
-mean_std_features <- grep("-(mean|std)\\(\\)", features[, 2])   ## get a list of columns with %mean% or %std% in their names 
+mean_std_features <- grep("-(mean|std)\\(\\)", features[, 2])   ## get a list of columns with %mean% or %std% data 
 xData <- xData[, mean_std_features]                             ## remove unnecesary columns 
 names(xData) <- features[mean_std_features, 2]  		        ## reasign proper columns names
 

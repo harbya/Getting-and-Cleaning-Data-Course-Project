@@ -1,8 +1,10 @@
 #Code Book
 
  The below are the columns names and column number of the final/tidy dataset.
+ 
+ Columns 1:66 are the measure variables storing the average for each feature and Columns 67 and 68 are the ID variables.
 
-##Variables extracted from training datasets
+##Variables listed below are the features extracted from features.txt dataset
 
 * `tBodyAcc-mean()-X` (Column :`1`)
 * `tBodyAcc-std()-X` (Column :`2`)
